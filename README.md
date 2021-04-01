@@ -32,7 +32,7 @@ Clustering Presidents and Foreign Ministers             |  Wordclouds by Preside
 </p>
 
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/34004529/113296456-dedf6500-92cf-11eb-9a54-1b3b6d8193fb.png" width="725"/>
+<img src="https://user-images.githubusercontent.com/34004529/113296818-51e8db80-92d0-11eb-827b-c7dd531bcfa4.png" width="725"/>
 <p>                     
 
 
