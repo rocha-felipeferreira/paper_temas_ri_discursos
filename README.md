@@ -4,6 +4,7 @@
 **By: Felipe Rocha**
 
 📚 [Click to read the paper](https://doi.org/10.21530/ci.v12n3.2017.707)
+
 📂 [Click to access Dataverse files](https://doi.org/10.7910/DVN/MQCASI)
 
 ### Abstract
